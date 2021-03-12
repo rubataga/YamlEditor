@@ -1,0 +1,5 @@
+name: YamlEditor
+version: ${project.version}
+main: me.rubataga.yamleditor.YamlEditor
+api-version: 1.16
+load: STARTUP
